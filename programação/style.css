@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 19px
+}
+.cabecalho {
+    background-color: #F7E4D4;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 8px 0;
+}
+
+.cabecalho-imagem{
+    width: 32%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+.OCULOS-imagem{
+    width: 115%;
+}
+
+.OCULOS{
+    background-image: linear-gradient(#F7E4D4,#ebc5a6);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.OCULOS-div-conteudo{
+    width: 35%;
+}
+
+
+.OCULOS-titulo{
+    padding: 24px 0;
+}
+
+.PRODUTOS{
+    padding: 24px 0;
+}
+.PRODUTOS-imagem{
+    width: 290px;
+}
+
+.PRODUTOS-div{
+    text-align: center;
+    padding: 60px 0;
+}
+
+.PRODUTOS-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.PRODUTOS-todos{
+    display: grid;
+    grid-template-columns: 40% 70%;
+}
+
+.rodape{
+    background-color: rgb(156, 96, 61);
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 90px;
+    padding: 12px 0;
+   
+}
+
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Priv
